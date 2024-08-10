@@ -16,6 +16,11 @@ body{
    
 }
 
-.container {
-    
+.cont {
+    background-color: aquamarine;
+    border-radius: 2px;
+    border: 2px solid black;
+  }
+  h3{
+    color: rgb(255, 140, 87);
   }
