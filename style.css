@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(242, 239, 235);
+
+}
+.h1{
+    color: black;
+    
+
+}
+
+
+.box{
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px; /* optional */
+   
+}
+
+.container {
+    
+  }
