@@ -18,6 +18,9 @@ body{
 .box{
      height: 100vh; /* vh unit for viewport height */
   width: 100vw; /* vw unit for viewport width */
+       display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px; /* optional */
    
 }
 
