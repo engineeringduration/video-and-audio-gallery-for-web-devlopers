@@ -1,6 +1,12 @@
 body{
     background-color: rgb(242, 239, 235);
 
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+
+
 }
 .h1{
     color: black;
@@ -10,9 +16,8 @@ body{
 
 
 .box{
-    display: grid;
-    grid-auto-flow: column;
-    grid-column-gap: 10px; /* optional */
+     height: 100vh; /* vh unit for viewport height */
+  width: 100vw; /* vw unit for viewport width */
    
 }
 
